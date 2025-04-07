@@ -1,4 +1,4 @@
-﻿![video](https://imgur.com/G8QrW6z.gif)
+﻿![video](https://imgur.com/BPZGaZH.gif)
 
 # 🎮 Jogo de Adivinhação em C#
 Um jogo simples onde o jogador tenta adivinhar um número secreto em três níveis de dificuldade: **Fácil**, **Médio** e **Difícil**.
